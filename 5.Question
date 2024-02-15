@@ -1,0 +1,8 @@
+function sortStrings(strings) {
+    return strings.sort();
+}
+
+// Example usage:
+const strings = ["banana", "apple", "cherry", "date"];
+const sortedStrings = sortStrings(strings);
+console.log(sortedStrings);
